@@ -1,5 +1,5 @@
 selenium/node-chrome:127.0
 #支持私库
-
+selenium/node-chrome:127.0
 #支持指定架构
 --platform=linux/amd64
