@@ -1,4 +1,4 @@
-nvidia/cuda:12.5.1-cudnn-devel-ubuntu20.04
+selenium/node-chrome:127.0
 #支持私库
 
 #支持指定架构
