@@ -1,5 +1,5 @@
 selenium/node-chrome:127.0
 #支持私库
-selenium/node-chrome:127.0
+ph210950/traffic_signal_control:bus_corr.0.1
 #支持指定架构
 --platform=linux/amd64
