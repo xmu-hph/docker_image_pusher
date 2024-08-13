@@ -1,6 +1,6 @@
 selenium/node-chrome:127.0
 #支持私库
-ph210950/traffic_signal_control:bus_corr.0.3
+ph210950/traffic_signal_control:bus_corr.0.2
 ph210950/traffic_signal_control:bus_corr.0.2
 ph210950/traffic_signal_control:bus_corr.0.1
 #支持指定架构
