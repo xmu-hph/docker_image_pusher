@@ -1,5 +1,7 @@
 #selenium/node-chrome:127.0
 #支持私库
 ph210950/traffic_signal_control:bus_corr.0.5
+ghcr.io/owo-network/deeplx:latest
+missuo/deeplx:latest
 #支持指定架构
 --platform=linux/amd64
