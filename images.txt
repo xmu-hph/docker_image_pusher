@@ -3,5 +3,6 @@
 ph210950/traffic_signal_control:bus_corr.0.5
 ghcr.io/owo-network/deeplx:latest
 missuo/deeplx:latest
+ghcr.io/guobao2333/deeplx-serverless:latest
 #支持指定架构
 --platform=linux/amd64
