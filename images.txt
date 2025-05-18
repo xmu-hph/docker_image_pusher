@@ -1,14 +1,14 @@
 #selenium/node-chrome:127.0
 #支持私库
-ph210950/traffic_signal_control:bus_corr.0.5
-ghcr.io/owo-network/deeplx:v0.9.8.3
-missuo/deeplx:v0.9.8.3
-ghcr.io/guobao2333/deeplx-serverless:2.1.0
-yidadaa/chatgpt-next-web:latest
-python:3.9.21-bookworm
-tuetenk0pp/sharelatex-full:5.3.3
-mongo:6.0
-redis:6.2
-gitea/gitea:1.23
+#ph210950/traffic_signal_control:bus_corr.0.5
+#ghcr.io/owo-network/deeplx:v0.9.8.3
+#missuo/deeplx:v0.9.8.3
+#ghcr.io/guobao2333/deeplx-serverless:2.1.0
+#yidadaa/chatgpt-next-web:latest
+#python:3.9.21-bookworm
+#tuetenk0pp/sharelatex-full:5.3.3
+#mongo:6.0
+#redis:6.2
+--platform linux/amd64 gitea/gitea:1.23
 #支持指定架构
---platform=linux/amd64
+#--platform=linux/amd64
