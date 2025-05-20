@@ -9,6 +9,7 @@
 #tuetenk0pp/sharelatex-full:5.3.3
 #mongo:6.0
 #redis:6.2
---platform linux/amd64 gitea/gitea:1.23
+#--platform linux/amd64 gitea/gitea:1.23
+--platform linux/amd64 ghcr.io/nextcloud-releases/all-in-one:latest
 #支持指定架构
 #--platform=linux/amd64
