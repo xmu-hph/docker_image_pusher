@@ -13,6 +13,7 @@
 #--platform linux/amd64 ghcr.io/nextcloud-releases/all-in-one:latest
 #--platform linux/amd64 mariadb:10.5
 #--platform linux/amd64 nextcloud:fpm
---platform linux/amd64 ubuntu:20.04
+#--platform linux/amd64 ubuntu:20.04
 #--platform linux/amd64 onlyoffice/documentserver:latest
+--platform linux/amd64 gotify/server:latest
 
