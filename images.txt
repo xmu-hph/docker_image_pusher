@@ -16,5 +16,6 @@
 #--platform linux/amd64 ubuntu:20.04
 #--platform linux/amd64 onlyoffice/documentserver:latest
 #--platform linux/amd64 gotify/server:latest
---platform linux/amd64 dockurr/windows:latest
+#--platform linux/amd64 dockurr/windows:latest
+--platform linux/amd64 nginx:alpine
 
