@@ -23,4 +23,5 @@
 #--platform linux/amd64 searxng/searxng:2025.7.28-8084a86
 #--platform linux/arm64 macrosan/kylin:v10-sp3-2403
 #--platform linux/amd64 linuxserver/chromium:amd64-latest
---platform linux/amd64 m1k1o/neko:google-chrome
+#--platform linux/amd64 m1k1o/neko:google-chrome
+--platform linux/amd64 m1k1o/neko:firefox
