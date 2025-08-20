@@ -24,4 +24,5 @@
 #--platform linux/arm64 macrosan/kylin:v10-sp3-2403
 #--platform linux/amd64 linuxserver/chromium:amd64-latest
 #--platform linux/amd64 m1k1o/neko:google-chrome
---platform linux/amd64 m1k1o/neko:firefox
+#--platform linux/amd64 m1k1o/neko:firefox
+--platform linux/amd64 caddy:2.10.0
