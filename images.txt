@@ -28,4 +28,5 @@
 #--platform linux/amd64 caddy:2.10.0
 #--platform linux/amd64 rustdesk/rustdesk-server
 #--platform linux/amd64 python:3.11-slim
---platform linux/amd64 v2fly/v2fly-core:v5.41.0
+#--platform linux/amd64 v2fly/v2fly-core:v5.41.0
+--platform linux/amd64 ghcr.io/xtls/xray-core:26.5.9
